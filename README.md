@@ -3,7 +3,7 @@
 The Desktop What-To-Do List App is a CRUD application developed with React, TypeScript, Tailwind CSS, and created using Vite. It provides a streamlined interface for users to create, edit, and delete day-to-day tasks directly from their desktop browsers.
 
 
-# 🚀 Key Features: 
+# Key Features
 
 - ## Optimized for Desktop
   Designed specifically for desktop browsers to maximize screen real estate and usability.
@@ -35,6 +35,8 @@ The Desktop What-To-Do List App is a CRUD application developed with React, Type
    npm run dev
  - ## Open your browser and navigate
    http://localhost:3000 to view the Todo
+ - ## Live demo
+   Explore the Live demo - https://todo-crud-flax.vercel.app
 
 
 # Future Enhancements
