@@ -1,6 +1,6 @@
 # What-To-Do List App
 
-The What-To-Do List App is a CRUD application developed with React, TypeScript, Tailwind CSS, and created using Vite. It provides a streamlined interface for users to create, edit, and delete day-to-day tasks directly from their desktop browsers.
+What-To-Do List App is a CRUD application developed with React, TypeScript, Tailwind CSS, and created using Vite. It provides a streamlined interface for users to create, edit, and delete day-to-day tasks directly from their desktop browsers.
 
 
 # Key Features
