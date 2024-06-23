@@ -137,8 +137,8 @@ input:focus {
     width: 80%;
   }
   .todoContainer {
-    width: calc(100vw - 32px);
-    left: 4%;
+    width: calc(100vw - 14px);
+    left: 2%;
     max-width: auto;
   }
   .inputForm {
@@ -152,5 +152,15 @@ input:focus {
   }
   .todoContainer {
     top: 17rem;
+  }
+  .items {
+    margin: 0;
+    height: 3.5rem;
+  }
+  .editBtn {
+    margin: 5px;
+  }
+  .editText > input {
+    padding: 5px;
   }
 }
