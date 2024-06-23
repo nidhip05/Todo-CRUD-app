@@ -74,6 +74,10 @@
   grid-gap: 10px;
 }
 
+.logoside span {
+  font-weight: 600;
+}
+
 .logoside > svg {
   font-size: 1.5rem;
   margin: 0 10px;
@@ -139,5 +143,14 @@ input:focus {
   }
   .inputForm {
     padding: 6px 7px 6px 14px;
+  }
+  .inputForm > button {
+    height: 40px;
+  }
+  .logoside > svg {
+    font-size: 1.2rem;
+  }
+  .todoContainer {
+    top: 17rem;
   }
 }
